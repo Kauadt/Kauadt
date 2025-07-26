@@ -2,21 +2,16 @@
 **`Desenvolvedor back-end`**
 <br>
 
-#### Hello, world! 👋
+### Hello, world! 👋
 🎓 Técnico em Desenvolvimento de Sistemas (ETEC de Registro – 2024) <br>
 👨🏽‍💻 Estudante de Ciência da Computação no Instituto Federal Catarinense <br>
 💡 Interesse por arquitetura limpa, APIs RESTful e boas práticas como SOLID <br>
-📱 Atualmente focado no aprendizado de back-end <br> <br> <br>
-
-
+📱 Atualmente focado no aprendizado de back-end <br> <br> 
 
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,php,cs,mysql,git,github,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,php,js,mysql,git,github)](https://skillicons.dev)
 
-
-
-<br/>
 <br/>
 
 ### 📊 Estatísticas
