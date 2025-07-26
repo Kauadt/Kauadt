@@ -1,9 +1,12 @@
 # 👨🏽‍💻 Kauã Tavares
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor back-end`**
 <br>
 
 #### Hello, world! 👋
-Me chamo Kauã Tavares, tenho 18 anos e sou apaixonado por tecnologia e desenvolvimento de software. Em 2024, concluí o Ensino Médio integrado ao curso técnico em Desenvolvimento de Sistemas pela Etec de Registro. Atualmente, estou focado em aprimorar minhas habilidades como Desenvolvedor FullStack, explorando tecnologias modernas e participando de projetos que promovam inovação e impacto positivo no mundo digital. Aqui no meu GitHub, você encontrará projetos que refletem meu compromisso com aprendizado contínuo, criatividade e busca por excelência técnica.
+🎓 Técnico em Desenvolvimento de Sistemas (ETEC de Registro – 2024) <br>
+👨🏽‍💻 Estudante de Ciência da Computação no Instituto Federal Catarinense <br>
+💡 Interesse por arquitetura limpa, APIs RESTful e boas práticas como SOLID <br>
+📱 Atualmente focado no aprendizado de back-end <br> <br> <br>
 
 
 
