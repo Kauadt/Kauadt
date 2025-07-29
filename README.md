@@ -4,7 +4,7 @@
 
 ### Hello, world! 👋
 🎓 Técnico em Desenvolvimento de Sistemas (ETEC de Registro – 2024) <br>
-👨🏽‍💻 Estudante de Ciência da Computação no Instituto Federal Catarinense <br>
+👨🏽‍💻 Estudante de Ciência da Computação no Instituto Federal Catarinense (2º Semestre) <br>
 💡 Interesse por arquitetura limpa, APIs RESTful e boas práticas como SOLID <br>
 📱 Atualmente focado no aprendizado de back-end <br> <br> 
 
