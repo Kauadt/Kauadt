@@ -10,7 +10,7 @@
 
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,php,js,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,php,js,mysql,git,github)](https://skillicons.dev)
 
 <br/>
 
