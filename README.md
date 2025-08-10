@@ -8,13 +8,13 @@
 💡 Improving my full-stack skills by learning clean architecture, building scalable APIs <br>
 📱 Exploring modern development methodologies and best practices <br><br>
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,python,php,js,mysql,git,github)](https://skillicons.dev)
 
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <p>
   <img 
