@@ -1,12 +1,12 @@
 # 👨🏽‍💻 Kauã Tavares
-**`Desenvolvedor back-end`**
+**`Full-Stack Developer`**
 <br>
 
 ### Hello, world! 👋
-🎓 Técnico em Desenvolvimento de Sistemas (ETEC de Registro – 2024) <br>
-👨🏽‍💻 Estudante de Ciência da Computação no Instituto Federal Catarinense (2º Semestre) <br>
-💡 Interesse por arquitetura limpa, APIs RESTful e boas práticas como SOLID <br>
-📱 Atualmente focado no aprendizado de back-end <br> <br> 
+🎓 Technical Degree in Systems Development (ETEC de Registro – 2024) <br>
+👨🏽‍💻 Computer Science student at Instituto Federal Catarinense (IFC) <br>
+💡 Improving my full-stack skills by learning clean architecture, building scalable APIs <br>
+📱 Exploring modern development methodologies and best practices <br><br>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -29,7 +29,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauadt&theme=react&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauadt&theme=react&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 
 </p>
